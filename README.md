@@ -106,18 +106,19 @@ print(x_single_prediction)
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+![img1]()
+![img2]()
 
 ### Classification Report
 
-Include Classification Report here
+![img3]()
 
 ### Confusion Matrix
 
-Include confusion matrix here
+![img4]()
 
 ### New Sample Data Prediction
 
-Include your sample input and output for your hand written images.
+![img5]()
 
 ## RESULT
