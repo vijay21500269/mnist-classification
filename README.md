@@ -5,20 +5,21 @@
 To Develop a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images.
 
 ## Problem Statement and Dataset
+To Develop a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images the dataset contains 70000 samples which is generated from tensorflow
 
-## Neural Network Model
-
-Include the neural network model diagram.
 
 ## DESIGN STEPS
 
 ### STEP 1:
+Import tensorflow and preprocessing libraries
 
 ### STEP 2:
+Build a CNN model
 
 ### STEP 3:
+Compile and fit the model and then predict
 
-Write your own steps
+
 
 ## PROGRAM
 ~~~
@@ -122,3 +123,4 @@ print(x_single_prediction)
 ![img5](https://github.com/vijay21500269/mnist-classification/blob/main/E.png)
 
 ## RESULT
+Thus a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is written and executed successfully
