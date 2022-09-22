@@ -111,7 +111,7 @@ print(x_single_prediction)
 
 ### Classification Report
 
-![img3]()
+![img3](https://github.com/vijay21500269/mnist-classification/blob/main/C.png)
 
 ### Confusion Matrix
 
