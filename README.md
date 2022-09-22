@@ -115,7 +115,7 @@ print(x_single_prediction)
 
 ### Confusion Matrix
 
-![img4]()
+![img4](https://github.com/vijay21500269/mnist-classification/blob/main/D.png)
 
 ### New Sample Data Prediction
 
