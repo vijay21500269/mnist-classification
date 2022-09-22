@@ -21,6 +21,29 @@ Include the neural network model diagram.
 Write your own steps
 
 ## PROGRAM
+~~~
+import numpy as np
+from tensorflow import keras
+from tensorflow.keras import layers
+from tensorflow.keras.datasets import mnist
+import tensorflow as tf
+import matplotlib.pyplot as plt
+from tensorflow.keras import utils
+import pandas as pd
+from sklearn.metrics import classification_report,confusion_matrix
+from tensorflow.keras.preprocessing import image
+(X_train, y_train), (X_test, y_test) = mnist.load_data()
+X_train.shape
+X_test.shape
+single_image= X_train[0]
+single_image.shape
+plt.imshow(single_image,cmap='gray')
+y_train.shape
+X_train.min()
+X_train.max()
+X_train_scaled = X_train/255.0
+X_test_scaled = X_test/255.0
+X_train_scaled.min()
 
 Include your code here
 
