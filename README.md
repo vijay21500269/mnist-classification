@@ -119,6 +119,6 @@ print(x_single_prediction)
 
 ### New Sample Data Prediction
 
-![img5]()
+![img5](https://github.com/vijay21500269/mnist-classification/blob/main/E.png)
 
 ## RESULT
