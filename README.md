@@ -107,7 +107,7 @@ print(x_single_prediction)
 ### Training Loss, Validation Loss Vs Iteration Plot
 
 ![img1](https://github.com/vijay21500269/mnist-classification/blob/main/A.png)
-![img2]()
+![img2](https://github.com/vijay21500269/mnist-classification/blob/main/B.png)
 
 ### Classification Report
 
